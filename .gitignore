@@ -10,4 +10,4 @@ node_modules/
 logs/
 .env
 .env.example
-tests/
+tests-example
